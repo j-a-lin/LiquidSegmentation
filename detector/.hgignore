@@ -1,0 +1,9 @@
+syntax: glob
+
+.ipynb_checkpoints
+pth
+log
+*.pth
+*.pyc
+*.so
+.idea*
